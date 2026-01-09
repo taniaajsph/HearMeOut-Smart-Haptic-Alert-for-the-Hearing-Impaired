@@ -35,7 +35,7 @@ Think: Edge Impulse model classifies audio as "Siren," "Doorbell," or "Noise."
 
 Act: ESP32 triggers the specific vibration/light pattern.
 
-🔗 [[CLICK HERE FOR EDGE IMPULSE MODEL](https://studio.edgeimpulse.com/public/867987/live)] (Paste Link)
+🔗 [[CLICK HERE FOR EDGE IMPULSE MODEL](https://studio.edgeimpulse.com/public/867987/live)]
 
 📂 Repository Contents
 HearMeOut_Final.ino: Main visual/haptic demo code.
