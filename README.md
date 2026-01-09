@@ -1,4 +1,3 @@
-Here is a concise, "Lite" version of the README. It looks cleaner and is easier for judges to scan quickly.
 
 🦻 HearMeOut
 AI-Powered Assistive Wearable for the Hearing Impaired
